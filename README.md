@@ -1,2 +1,2 @@
-# Terminal-commands
+# Commands
 Uso de comandos en la terminal
